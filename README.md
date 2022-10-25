@@ -3,6 +3,13 @@
 ## Taustaa
 KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koostuu väestö- ja asuntokantaennustemallista ja on tulosta Asumisen rahoitus- ja kehittämiskeskuksen (ARA) ja Suomen ympäristäkeskuksen (SYKE) yhteishankkeesta. Työkalu on kehitetty SYKEssä.
 
+<br/><br/>
+
+<p align="center">
+<img src= "../assets/KASSU_malli_kuva.png" alt="KASSU-mallin vaiheet kaavio" width="700" height="300">
+<figcaption><strong>Kuva 1. KASSU mallin vaiheet</strong></figcaption>
+</p>
+
 ## Väestöennuste
 
 - Väestöennuste on mallinnettu aluekohtaisesti 250 m x 250 m ruudukolla 1-vuotisikäryhmille sukupuolittain kohorttikomponentti-menetelmällä, joka vanhentaa väestöä vuosittain huomioiden eri komponenttien vaikutuksen. 
@@ -10,6 +17,7 @@ KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koost
 - Malli mahdollistaa ennusteen sekä kuntakohtaisesti, että halutulle aluejaolle kunnan sisällä (esim. pienaluejako). 
 - Koska ennuste on kuntapohjainen, se ei huomioi väestönkehitystä kunnan ulkopuolella, kuten lähtömuuttoalueiden väestönkehitystä.
 - Ennustekausi on tällä hetkellä vuoteen 2040 asti. 
+
 
 
 ### Väestöennusteessa käytetyt aineistot
