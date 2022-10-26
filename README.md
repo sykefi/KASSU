@@ -7,7 +7,7 @@ KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koost
 
 <p align="center">
 <img src= "../assets/KASSU_malli_kuva.png" alt="KASSU-mallin vaiheet kaavio" width="700" height="300">
-<figcaption><strong>Kuva 1. KASSU mallin vaiheet</strong></figcaption>
+<figcaption><strong>Kuva 1. KASSU-mallin vaiheet</strong></figcaption>
 </p>
 
 ## Väestöennuste
@@ -19,12 +19,12 @@ KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koost
 - Ennustekausi on tällä hetkellä vuoteen 2040 asti. 
 
 
-
 ### Väestöennusteessa käytetyt aineistot
 
 | Aineiston nimi| Lähde | Aikasarja | Aluetaso | Lisätiedot |
 |---------------|-------|-----------|----------|------------|
-| YKR-muuttoliikeaineisto | YKR (Tilastokeskus) | 2019 | Piste | 1-v. ikäryhmät |
+| RHR-rakennuspisteet | RHR (Digi- ja väestötietovirasto) | 2019 | Piste | 1-v. ikäryhmät |
+| YKR-muuttoliikeaineisto | YKR (Tilastokeskus) | 2015-2019 | Ruutu | Ikäryhmät 3 vuoden välein välillä 0-74 sekä yli 75-vuotiaat |
 | Väestöennusteen hedelmällisyyskertoimet iän mukaan | StatFIn (Tilastokeskus) | 2019-2040 | Kunta | Laskettu 2015-2019 tietojen perusteella |
 | Väestöennusteen kuolleisuuskertoimet iän ja sukupuolen mukaan | StatFIn (Tilastokeskus) | 2019-2040 | Kunta | Laskettu 2008-2014 tietojen perusteella |
 | Maahanmuutto iän ja sukupuolen mukaan | StatFin (Tilastokeskus) | 2015-2019 | Kunta | Ikäryhmät 4 vuoden välein välillä 0-101 |
