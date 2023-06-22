@@ -1,7 +1,7 @@
 # KASSU: väestö- ja asuntokantaennustetyökalu
 
 ## Taustaa
-KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koostuu väestö- ja asuntokantaennustemallista ja on tulosta Asumisen rahoitus- ja kehittämiskeskuksen (ARA) ja Suomen ympäristäkeskuksen (SYKE) yhteishankkeesta. Työkalu on kehitetty SYKEssä.
+KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koostuu väestöennuste- ja asuntokantaennustemallista, ja on tulosta Suomen ympäristökeskuksen (Syke) ja Asumisen rahoitus- ja kehittämiskeskuksen (ARA) yhteishankkeesta. Työkalu on tehty Sykessä. Tarkemmat funktioiden kuvaukset löytyvät R-skripteistä. Lisätietoa työkalusta löytyy: https://helda.helsinki.fi/handle/10138/358430 
 
 <br/><br/>
 
