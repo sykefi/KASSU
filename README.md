@@ -7,6 +7,6 @@ KASSU-työkalu on kehitetty kuntien asumisen suunnittelun tueksi. Työkalu koost
 
 <p align="center">
 <img src= "/data/figures/laskennan_periaate.png" alt="KASSU-mallin vaiheet kaavio" width="700" height="300">
-<figcaption><strong>Kuva 1. KASSU-mallin laskennan vaiheet</strong></figcaption>
+<figcaption><strong>Kuva 1. KASSU-mallin laskennan vaiheet yleistetysti</strong></figcaption>
 </p>
 
