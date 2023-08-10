@@ -12,7 +12,7 @@ cn = odbcDriverConnect(connection="Driver={SQL Server};server=server_name;truste
 
 ## Fetch the existing population from the study area 
 rhr_pop = sqlQuery(cn, paste("SELECT H.rakennustunnus, H.huoneisto, Asukkaita, sukupuoli_id, ika, p.area_id
-FROM rhr2021.dbo.huoneisto H
+FROM ",rhr," huoneisto H
            INNER JOIN ",rhr," rakennus R --inner join koska huoneistolle oltava rakennus
                       ON R.rakennustunnus = H.rakennustunnus
 								INNER JOIN ",area," p on p.xyind = r.ykre_ruutu_xyind -- KASSU-mallissa käytettävä aluejako
